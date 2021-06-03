@@ -12,9 +12,9 @@ I only reproduce experiment 1.
 
 Just run
 
-'''python
+```python
 python3 Exp.py
-'''
+```
 
 Before run experiment code, make 'save_model' folder in the same location of src folder directory.
 
